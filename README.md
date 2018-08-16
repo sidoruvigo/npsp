@@ -5,6 +5,16 @@ This package implements nonparametric methods
 for inference on multidimensional spatial (or spatio-temporal) processes,
 which may be (especially) useful in (automatic) geostatistical modeling and interpolation.
 
+
+## Install the development version from GitHub
+```r
+devtools::install_github('rubenfcasal/npsp')
+```
+
+[![Downloads](http://cranlogs.r-pkg.org/badges/npsp)](https://cran.r-project.org/package=npsp)
+ [![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/npsp)](https://cran.r-project.org/package=npsp)
+
+
 Main functions
 --------------
 
